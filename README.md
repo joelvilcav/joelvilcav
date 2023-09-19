@@ -1,4 +1,4 @@
-# Hi there, I'm Joel Vilca 👋
+# Hi there! 👋
 
 ## I'm a Developer!
 
