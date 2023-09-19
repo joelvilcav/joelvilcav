@@ -39,16 +39,4 @@
 
 ---
 
-
-### 📕 STATS
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelvilcav&show_icons=true&locale=en&layout=compact" alt="codebit-00" /></p>
-
-[![Joel Vilca GitHub stats](https://github-readme-stats.vercel.app/api?username=joelvilcav&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelvilcav&" alt="codebit-00" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renzoqc" alt="joelvilcav" /></a> </p>
-
-
 [linkedin]: https://www.linkedin.com/in/jjvilcavuni/
