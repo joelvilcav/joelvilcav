@@ -2,10 +2,8 @@
 
 ## I'm a Developer!
 
-- 🌱 I’m currently learning about software engineer.
-- 🧑🏻‍💻 I’m looking to get a job in a software company.
-- 🥅 2023 Goals: Get grade B2 in the Cambridge Proficiency Exam and deepen in Software Engineering Knowledge.
-- ⚡ Fun fact: I love listening music and playing videogames.
+- I’m currently learning about software engineer.
+- I’m looking to get a job in a software company.
 - 📫 How to reach me **jvilcav29@gmail.com** or **+51 921 881 544**.
 <br /><br />
 
